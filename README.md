@@ -1,16 +1,23 @@
-# React + Vite
+# Arshdeep Kaur – Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my personal portfolio website showcasing my projects,
+technical skills, professional experience, and education.
 
-Currently, two official plugins are available:
+## 🔧 Tech Stack
+- React
+- Tailwind CSS
+- Framer Motion
+- JavaScript (ES6+)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📁 Featured Projects
+- Reminder & Task Management Web App
+- Containerized Microservices Data & Analytics System (Docker, MySQL, MongoDB)
 
-## React Compiler
+## 🚀 Goals
+This site is intended to provide recruiters and hiring managers with a clear
+overview of my technical background and real-world project experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📍 Burnaby, BC  
+🔗 LinkedIn: https://www.linkedin.com/in/arshdeep-kaur-435a3921a/
